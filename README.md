@@ -1,0 +1,1 @@
+# jogodoquatro-negamax
