@@ -157,7 +157,8 @@ Escolha da peça da lista de peças disponíveis:
 ```
 
 <br>
-Atualização do tabuleiro com a jogada do utilizador
+Atualização do tabuleiro com a jogada do utilizador:
+
 ```lisp
  Tabuleiro (Ultimo a jogar - Jogador) 
  ((BRANCA QUADRADA ALTA OCA) 0 0 0)
