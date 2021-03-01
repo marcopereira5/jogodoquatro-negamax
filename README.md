@@ -139,7 +139,8 @@ Escolha da posição
 ```
 
 <br>
-Escolha da peça da lista de peças disponíveis
+Escolha da peça da lista de peças disponíveis:
+
 ```lisp
  1 - (BRANCA QUADRADA BAIXA CHEIA)
  2 - (BRANCA QUADRADA ALTA CHEIA)
